@@ -8259,7 +8259,7 @@ main.live {
 @media (min-width: 580px) {
   .contact {
     height: calc(100vh - 94.203); }
-    .contact legend {
+    .contact h1, .contact .h1 {
       font-size: 3.5rem; }
     .contact input, .contact textarea {
       width: 300px; }
