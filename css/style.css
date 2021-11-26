@@ -7984,7 +7984,8 @@ footer .newsletter {
     color: #cfe6e2;
     font-size: 3rem;
     line-height: 1.1;
-    text-shadow: 3px 3px 7px #000000; }
+    text-shadow: 3px 3px 7px #000000;
+    display: none; }
 
 @media (min-width: 580px) {
   .hero {
