@@ -1,5 +1,4 @@
 # BringMeTheHorizon
-Pagina creada a partir del curso de desarrollo web de coderhouse
 <h1 align="center">Hi, I'm Sh4rkD</h1>
 <h2 align="center">A passionate frontend developer from Mexico</h3>
 
