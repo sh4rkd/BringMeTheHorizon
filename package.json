@@ -1,7 +1,7 @@
 {
   "name": "bmth",
   "version": "1.0.0",
-  "description": "",
+  "description": "its a website about my favorite rock band",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
