@@ -4,7 +4,7 @@
 <h3 align="center">This project is about the rock band I like the most</h3>
 <p align="center">
 This page was created from the coderhouse web development course, on the page you will find albums, tours, news about the band.
-If you are interested in designing a web page like this, just enter <a href="https://cutt.ly/oTMtNZY" target="_blank">here</a>
+If you are interested in designing a web page like this, just enter <a href="https://cutt.ly/oTMtNZY" target="_newblank">here</a>
 </p>
 <p align="center">
  BRING ME THE HORIZON RULES 🤟😝🤟
