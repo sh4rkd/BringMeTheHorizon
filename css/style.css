@@ -8014,8 +8014,9 @@ footer .newsletter {
   display: block; }
 
 @media (min-width: 1024px) {
-  #carouselExampleFade {
-    padding-top: 8rem; } }
+  .carousel-item {
+    margin-left: 36vw;
+    width: 25%; } }
 
 /* header de todas las paginas */
 header {
