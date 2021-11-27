@@ -1,10 +1,10 @@
-# BringMeTheHorizon
 <h1 align="center">Hi, I'm Sh4rkD</h1>
 <h2 align="center">A passionate frontend developer from Mexico</h3>
 
 <h3 align="left">This project is about the rock band I like the most</h3>
 <p align="left">
 This page was created from the coderhouse web development course, on the page you will find albums, tours, news about the band.
+BRING ME THE HORIZON RULES 🤟😝🤟
 </p>
 
 <h3 align="left">Languages and Tools used in the project:</h3>
