@@ -8108,6 +8108,18 @@ body {
     padding: 1em;
     border: 4px solid #ffcf0d; }
 
+@keyframes rotate {
+  from {
+    transform: rotate(0deg); }
+  to {
+    transform: rotate(360deg); } }
+
+@-webkit-keyframes rotate {
+  from {
+    -webkit-transform: rotate(0deg); }
+  to {
+    -webkit-transform: rotate(360deg); } }
+
 .album ol {
   padding-left: 0; }
 
@@ -8115,8 +8127,12 @@ body {
   list-style-position: inside; }
 
 .album-hit {
-  color: #ffcf0d;
-  list-style-image: url("https://api.iconify.design/emojione/glowing-star.svg"); }
+  color: #ffcf0d; }
+  .album-hit img {
+    -webkit-animation: 3s rotate linear infinite;
+    animation: 3s rotate linear infinite;
+    -webkit-transform-origin: 50% 50%;
+    transform-origin: 50% 50%; }
 
 .news ul {
   display: flex;
@@ -8158,7 +8174,7 @@ main.live {
   place-content: center; }
 
 .tour-dates {
-  padding: 3em 0; }
+  padding: 2em 0; }
   .tour-dates ul {
     max-width: 1200px;
     display: flex;
@@ -8204,7 +8220,7 @@ main.live {
 .updates {
   display: grid;
   place-content: center;
-  padding: 3em 0; }
+  padding: 1em 0; }
   .updates h1, .updates .h1 {
     margin-bottom: 1em; }
   .updates ul {
@@ -8241,12 +8257,6 @@ main.live {
   height: calc(100vh - 52.328px);
   display: grid;
   place-content: center; }
-  .contact h1, .contact .h1 {
-    color: #0e0e0e;
-    font-size: 2.5rem;
-    font-weight: 700;
-    line-height: 1.1;
-    text-shadow: 1px 1px 4px #e6cfe6; }
   .contact input, .contact textarea {
     width: 200px;
     font-size: 12px;
